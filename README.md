@@ -1,5 +1,7 @@
 # EEE3088
-PiHat Project\n
+PiHat Project
+
+
 To say that the Covid-19 pandemic has reshaped the way we live on a daily basis would be
 an understatement. In about less than a year the pandemic has affected the way we work,
 learn and socialise. Something as fundamental and basic such as space or the touching of
@@ -14,3 +16,14 @@ demand. In this system, the pedestrian would use his/her voice to send commands 
 traffic robots and the traffic robots would respond by switching between the LED’s status
 lights.
 
+Some PCB requirements:
+
+- microphone
+
+- 12C interface
+
+- JST 2.0 Speaker
+
+- camera sensor
+
+- 3.5mm Headphone jack
